@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    justify-content: center;
+    background-color: rgb(59, 48, 129);
+    color: rgb(39, 124, 221);
+    border: 5px solid rgb(69, 69, 236);
+    align-items: center;
+}
+table td {
+    border: double 3px rgb(69, 127, 236);
+    width: 100px;
+    height: 100px;
+
+}
+button{
+    font: 100px;
+    color: rgb(69, 127, 236);
+    border: groove 2px rgb(69, 69, 236);
+    background-color: rgb(19, 236, 200);
+}
